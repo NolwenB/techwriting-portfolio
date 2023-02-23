@@ -2,7 +2,7 @@
 
 A page template built with astro and tailwindcss using tailus blocks.
 
-Based off of the [Astro Theme](https://astro.build/themes/details/astrolus/).
+Based off of [Astrolus](https://astro.build/themes/details/astrolus/).
 
 ## 🔷 Website Link
 [https://portfolio.nebtest.dev](https://portfolio.nebtest.dev)
