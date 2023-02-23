@@ -1,0 +1,20 @@
+---
+import Stats from '../components/Stats.astro';
+import AboutMe from '../components/AboutMe.astro';
+import HeroSection from '../components/HeroSection.astro';
+import Layout from '../layouts/Layout.astro';
+import Testimonials from '../components/Testimonials.astro';
+import CallToAction from '../components/CallToAction.astro';
+import Blog from '../components/Blog.astro';
+---
+
+<Layout title="Portfolio | Nolwen Bachtle">
+	<main class="space-y-40 mb-40">
+		<HeroSection/>
+		<AboutMe/> <!-- About Me -->
+		<Stats/>
+		<Testimonials/>
+		<CallToAction/>
+		<Blog/>
+	</main>
+</Layout>
