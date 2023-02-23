@@ -1,9 +1,11 @@
-# astrolus
+# 📃 Website Portfolio
 
 A page template built with astro and tailwindcss using tailus blocks.
 
-![Tailus astro based theme](./public/astrolus-light.png)
-![Tailus astro based dark theme](./public/astrolus-dark.png)
+Based off of the [Astro Theme](https://astro.build/themes/details/astrolus/).
+
+## 🔷 Website Link
+[https://portfolio.nebtest.dev](https://portfolio.nebtest.dev)
 
 ## 🚀 Project Structure
 
@@ -41,7 +43,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`      | Preview your build locally, before deploying       |
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
 | `npm run astro --help` | Get help using the Astro CLI                       |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
